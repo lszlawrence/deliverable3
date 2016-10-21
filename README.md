@@ -7,3 +7,9 @@ Issues:
 4.The testrun.class can run directly.
 5.Mac system used when coding.
 6.Many same steps existed, i don't know if that means over-testing.
+7.The user story and scenarios are described in three .feature files(HomePage.feature, Login.feature, Search.feature)
+
+
+
+
+  
